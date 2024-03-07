@@ -1,9 +1,6 @@
-//
-//  DailyScrum.swift
-//  Scrumdinger
-//
-//  Created by namdghyun on 3/6/24.
-//
+/*
+ See LICENSE folder for this sample’s licensing information.
+ */
 
 import Foundation
 
@@ -55,7 +52,7 @@ extension DailyScrum {
                    lengthInMinutes: 10,
                    theme: .yellow),
         DailyScrum(title: "App Dev",
-                   attendees: ["Katie", "Grey", "Euna", "Luis", "Darla"],
+                   attendees: ["Katie", "Gray", "Euna", "Luis", "Darla"],
                    lengthInMinutes: 5,
                    theme: .orange),
         DailyScrum(title: "Web Dev",
